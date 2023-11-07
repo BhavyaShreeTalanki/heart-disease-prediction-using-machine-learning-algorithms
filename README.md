@@ -1,9 +1,9 @@
 # python
 Heart disease prediction models using machine learning
-HEART DISEASE PREDICTION USING ML
+**HEART DISEASE PREDICTION USING ML**
 The problem statement revolves around creating a predictive model to determine the likelihood of heart disease in individuals based on a set of clinical and demographic attributes. Our data set consists of necessary components like Age, blood pressure, maximum heart rate and other 11 components to analyze whether the person suffers with heart disease or not. We indicated binary variable 1 for yes and 0 for no. Our data set contains 270 rows and 14 columns.
 In this prediction we selected four machine learning models to find the effective model for our prediction. We selected logistic Regression, Random Forest, Decision Tree and K-Nearest neighbor as our testing and training models. We only selected these models :
- K-Nearest Neighbor: We chose this because the data distribution is not highly complex and it makes better predictions and classifications.
+K-Nearest Neighbor: We chose this because the data distribution is not highly complex and it makes better predictions and classifications.
 Logistic Regression: We chose this because it clearly tells the relationship between the independent variables and likely hood of a particular outcome.
 Random Forest: It combines multiple decision trees to improve prediction performance which is important for our data set as we require high accuracy.
 Decision Tree: It can handle both classification and regression tasks which is useful for capturing non-linear relationships in the data.
